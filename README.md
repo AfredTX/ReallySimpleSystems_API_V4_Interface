@@ -1,0 +1,2 @@
+# ReallySimpleSystems_API_V4_Interface
+I work for a non profit organization that uses a low budget CRM called Really Simple Systems. When I took up the position of Data Manager I found that the staff was keeping track of our clients by copying and pasting information hosted on the website into various spreadsheets. Rather than doing all this manual data entry and copy and pasting I've created a program to automate the collection of client data. 
